@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../pp2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dara ent"
+	}
+}
